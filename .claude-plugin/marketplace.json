@@ -11,8 +11,8 @@
       "name": "pete-loop",
       "description": "Autonomous build loop for Claude Code. Spec → plan → execute one task per fresh context window. Built for Pro subscription users.",
       "source": {
-        "source": "github",
-        "repo": "petemcpherson/pete-loop"
+        "source": "url",
+        "url": "https://github.com/petemcpherson/pete-loop.git"
       },
       "author": {
         "name": "Pete McPherson"
