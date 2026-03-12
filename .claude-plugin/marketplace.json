@@ -1,0 +1,27 @@
+{
+  "name": "petemcpherson-claude-plugins",
+  "owner": {
+    "name": "Pete McPherson"
+  },
+  "metadata": {
+    "description": "Pete McPherson's open source Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "pete-loop",
+      "description": "Autonomous build loop for Claude Code. Spec → plan → execute one task per fresh context window. Built for Pro subscription users.",
+      "source": {
+        "source": "github",
+        "repo": "petemcpherson/pete-loop"
+      },
+      "author": {
+        "name": "Pete McPherson"
+      },
+      "homepage": "https://github.com/petemcpherson/pete-loop",
+      "repository": "https://github.com/petemcpherson/pete-loop",
+      "license": "MIT",
+      "keywords": ["loop", "automation", "workflow", "autonomous", "spec", "plan"],
+      "category": "development-workflows"
+    }
+  ]
+}
